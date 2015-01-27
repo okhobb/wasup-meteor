@@ -1,0 +1,9 @@
+.home-header {
+    background-image: url(bouvet-boat.jpg);
+    background-size: cover;
+}
+
+.message-div {
+    border-width: 2px;
+    border-color: DodgerBlue;
+}

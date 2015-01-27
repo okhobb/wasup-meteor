@@ -1,0 +1,4 @@
+template(name="messages")
+  input.form-control(id="message-input" placeholder="Are you thinking...?")
+  each messages
+    .message-div @ #{username} #{text}
